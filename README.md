@@ -36,11 +36,10 @@ To load the dataset into a Neo4j database, you can use either the Neo4j Browser 
 5. Ensure that the imported data is mapped correctly to the nodes, edges, and properties defined in the property graph model.
 6. Optionally, create indexes on relevant properties to optimize query performance.
 
-![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
-
 ### Contributors
 
 - [x] [Foteini Nefeli Nouskali](https://github.com/FoteiniNefeli)
 - [x] [Dimitris Matsanganis](https://github.com/dmatsanganis)
 
 
+![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)

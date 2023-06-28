@@ -41,6 +41,6 @@ To load the dataset into a Neo4j database, you can use either the Neo4j Browser 
 ### Contributors
 
 - [x] [Foteini Nefeli Nouskali](https://github.com/FoteiniNefeli)
-- [x] [Foteini Nefeli Nouskali](https://github.com/dmatsanganis)
+- [x] [Dimitris Matsanganis](https://github.com/dmatsanganis)
 
 

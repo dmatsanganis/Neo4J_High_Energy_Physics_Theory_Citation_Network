@@ -1,6 +1,6 @@
 ## High Energy Physics Theory Citation Network
 
-This GitHub repository contains the implementation of a property graph model and a Neo4j database for the High Energy Physics Theory Citation Network. 
+This repository contains the implementation of a property graph model and a Neo4j database for the High Energy Physics Theory Citation Network. 
 The dataset consists of articles, authors, journals, and citations between articles.
 
 ### Dataset

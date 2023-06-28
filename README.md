@@ -22,8 +22,8 @@ To represent the dataset as a property graph, the following entities, labels, ty
 
 2. **Edges**:
    - **CITES**: Represents a citation relationship between two article nodes.
-
-The property graph model captures the relationships and attributes present in the High Energy Physics Theory Citation Network dataset.
+   - **WRITTEN_BY**: Represents the relationship between an author and an article, indicating that the author wrote the article.
+   - **PUBLISHED_IN**: Represents the relationship between an article and a journal, indicating that the article was published in the journal.
 
 ### Importing the Dataset into Neo4j - Instructions
 

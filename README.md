@@ -14,7 +14,7 @@ The dataset used for this project can be downloaded from the provided zip file. 
 ### Property Graph Model
 
 To represent the dataset as a property graph, the following entities, labels, types, and properties are used:
-
+ 
 1. **Nodes**:
    - **Article**: Represents an article node with properties such as ID, title, year, journal, and abstract.
    - **Author**: Represents an author node with properties such as the author's name.

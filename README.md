@@ -12,7 +12,7 @@ The dataset used for this project can be downloaded from the provided zip file. 
 - `Citations.csv`: Contains information about citations between articles, including the source article ID, the citation relationship, and the target article ID.
 
 ### Property Graph Model
-
+ 
 To represent the dataset as a property graph, the following entities, labels, types, and properties are used:
  
 1. **Nodes**:
